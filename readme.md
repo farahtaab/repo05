@@ -33,6 +33,7 @@ Añadimos un fichero md (se puede añadir desde remoto como desde local) para ir
 ### 5.6
 
 ![foto6](imagenes/foto6.png)
+![foto7](imagenes/foto7.png)
 
 ### 5.7
 
